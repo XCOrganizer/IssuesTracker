@@ -1,2 +1,2 @@
-# IssueTracker
-Public Issue Tracker
+# IssuesTracker
+Public Issues Tracker
